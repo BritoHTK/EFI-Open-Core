@@ -1,0 +1,1 @@
+# EFI-Open-Core Intel I3 10100f, MSI MAG B460M MORTAR, RX470
